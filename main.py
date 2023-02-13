@@ -6,6 +6,8 @@ from rich import print
 db = TinyDB("./storage/data.json")
 dataQuery = Query()
 
+# teste de merge git
+
 # TODO> função para cadastrar veiculos no banco de dados
 def cadastrar_veiculo():
     """
